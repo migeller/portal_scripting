@@ -1,3 +1,5 @@
 #!/usr/bin/env python
 
-print 3 + 2
+total = 3 + 2
+
+print "Here is the total: %d" % total
