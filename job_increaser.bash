@@ -2,6 +2,7 @@
 
 # MetaCode Job Increaser, version 1.0
 # Copyright (c) 2014, MetaCode, Inc. All Rights Reserved.
+# Call this puppy via cron when you want to increase simultaneous jobs.
 
 # Global Variables
 

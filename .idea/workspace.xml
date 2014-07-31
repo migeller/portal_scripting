@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f90f6262-c3fb-4d57-9e6f-1587a498a596" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/job_decreaser.bash" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/job_increaser.bash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/portal_scripting.iml" afterPath="$PROJECT_DIR$/.idea/portal_scripting.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/job_decreaser.bash" afterPath="$PROJECT_DIR$/job_decreaser.bash" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/job_increaser.bash" afterPath="$PROJECT_DIR$/job_increaser.bash" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portal_scripting.iws" />
@@ -34,21 +31,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="job_decreaser.bash" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="job_decreaser.bash" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/job_decreaser.bash">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19213483" vertical-offset="0" max-vertical-offset="890">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
+              <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="4" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="job_increaser.bash" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="job_increaser.bash" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/job_increaser.bash">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.08539326" vertical-offset="0" max-vertical-offset="890">
+              <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -70,8 +67,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/new_script.py" />
         <option value="$PROJECT_DIR$/another_script.py" />
-        <option value="$PROJECT_DIR$/job_increaser.bash" />
         <option value="$PROJECT_DIR$/job_decreaser.bash" />
+        <option value="$PROJECT_DIR$/job_increaser.bash" />
       </list>
     </option>
   </component>
@@ -437,13 +434,18 @@
       <created>1406781933906</created>
       <updated>1406781933906</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding real scripts now.">
+      <created>1406783288929</created>
+      <updated>1406783288929</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="827" y="105" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -459,7 +461,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -503,7 +504,8 @@
     </option>
     <MESSAGE value="Committee!" />
     <MESSAGE value="Adding code to another_script" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding code to another_script" />
+    <MESSAGE value="Adding real scripts now." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding real scripts now." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -608,18 +610,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/job_increaser.bash">
+    <entry file="file://$PROJECT_DIR$/job_decreaser.bash">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="4" selection-end-column="71" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/job_decreaser.bash">
+    <entry file="file://$PROJECT_DIR$/job_increaser.bash">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19213483" vertical-offset="0" max-vertical-offset="890">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.08539326" vertical-offset="0" max-vertical-offset="890">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
           <folding />
         </state>
       </provider>
