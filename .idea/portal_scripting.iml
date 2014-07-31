@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="newtest" />
     <orderEntry type="module" module-name="farting" />
+    <orderEntry type="module" module-name="requests" />
   </component>
 </module>
 
