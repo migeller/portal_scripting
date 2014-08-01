@@ -28,6 +28,10 @@ headers = {'Content-Type': 'application/xml', 'Accept': 'application/xml'}
 # Derived Variables
 url = "http://%s:8080/API/configuration/properties" % portal_server
 
-response = requests.put(url, auth=(portal_user, portal_pass), headers=headers)
+xml = "<ConfigurationPropertyDocument xmlns=\"http://xml.vidispine.com/schema/vidispine\"><key>concurrentjobs</key><value>%s</value></ConfigurationPropertyDocument>" % job_number
+
+response = requests.put(url, data=xml, auth=(portal_user, portal_pass), headers=headers)
+
+print response.content
 
 exit()
