@@ -8,11 +8,13 @@
 
 """
 
+__name__ = 'job_decreaser.py'
 __author__ = 'MetaCode, Inc.'
-=__version__ = "$Revision: 1.0 $"
-__date__ = "$Date: 20/05/05 21:57:19 $"
-__copyright__ = "Copyright (c) 2014, MetaCode, Inc. All Rights Reserved."
-__license__ = "Python"
+__version__ = 'Revision 1.0'
+__date__ = '8/1/14 6:19 PM'
+__copyright__ = 'Copyright (c) 2014, MetaCode, Inc. All Rights Reserved.'
+__license__ = 'Python'
+__ide__ = 'PyCharm'
 
 import requests
 
