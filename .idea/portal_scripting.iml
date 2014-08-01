@@ -7,6 +7,7 @@
     <orderEntry type="module" module-name="newtest" />
     <orderEntry type="module" module-name="farting" />
     <orderEntry type="module" module-name="requests" />
+    <orderEntry type="module" module-name="Portal_Scripting" />
   </component>
 </module>
 
