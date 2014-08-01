@@ -3,10 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/Dropbox/MetaCode/Portal_Scripting/.idea/Portal_Scripting.iml" filepath="$USER_HOME$/Dropbox/MetaCode/Portal_Scripting/.idea/Portal_Scripting.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../farting/.idea/farting.iml" filepath="$PROJECT_DIR$/../farting/.idea/farting.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../newtest/.idea/newtest.iml" filepath="$PROJECT_DIR$/../newtest/.idea/newtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/portal_scripting.iml" filepath="$PROJECT_DIR$/.idea/portal_scripting.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../requests/.idea/requests.iml" filepath="$PROJECT_DIR$/../requests/.idea/requests.iml" />
     </modules>
   </component>
 </project>

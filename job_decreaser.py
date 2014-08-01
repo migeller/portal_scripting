@@ -11,7 +11,7 @@
 __name__ = 'job_decreaser.py'
 __author__ = 'MetaCode, Inc.'
 __version__ = 'Revision 1.0'
-__date__ = '8/1/14 6:19 PM'
+__date__ = '$Id:$'
 __copyright__ = 'Copyright (c) 2014, MetaCode, Inc. All Rights Reserved.'
 __license__ = 'Python'
 __ide__ = 'PyCharm'
@@ -29,3 +29,5 @@ headers = {'Content-Type': 'application/xml', 'Accept': 'application/xml'}
 url = "http://%s:8080/API/configuration/properties" % portal_server
 
 response = requests.put(url, auth=(portal_user, portal_pass), headers=headers)
+
+exit()

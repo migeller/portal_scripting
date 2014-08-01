@@ -4,9 +4,6 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 2.7.5 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="newtest" />
-    <orderEntry type="module" module-name="farting" />
-    <orderEntry type="module" module-name="requests" />
     <orderEntry type="module" module-name="Portal_Scripting" />
   </component>
 </module>
