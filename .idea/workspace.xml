@@ -47,8 +47,8 @@
       <file leaf-file-name="job_decreaser.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/job_decreaser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52312773" vertical-offset="0" max-vertical-offset="908">
-              <caret line="25" column="74" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+            <state vertical-scroll-proportion="0.37665197" vertical-offset="0" max-vertical-offset="908">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -548,7 +548,11 @@
       <created>1406936320246</created>
       <updated>1406936320246</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Converting bash to python">
+      <created>1406937067650</created>
+      <updated>1406937067650</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1006,8 +1010,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/job_decreaser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52312773" vertical-offset="0" max-vertical-offset="908">
-          <caret line="25" column="74" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+        <state vertical-scroll-proportion="0.37665197" vertical-offset="0" max-vertical-offset="908">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
