@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f90f6262-c3fb-4d57-9e6f-1587a498a596" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/job_decreaser.py" afterPath="$PROJECT_DIR$/job_decreaser.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portal_scripting.iws" />
@@ -552,7 +551,11 @@
       <created>1406937067650</created>
       <updated>1406937067650</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Converting bash to python">
+      <created>1406939928238</created>
+      <updated>1406939928238</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
