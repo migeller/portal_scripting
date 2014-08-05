@@ -19,10 +19,10 @@ __ide__ = 'PyCharm'
 import requests
 
 # Global Variables
-portal_server="127.0.0.1"
-portal_user="admin"
-portal_pass="admin"
-job_number="12"
+portal_server = "127.0.0.1"
+portal_user = "admin"
+portal_pass = "admin"
+job_number = "12"
 headers = {'Content-Type': 'application/xml', 'Accept': 'application/xml'}
 
 # Derived Variables
