@@ -11,7 +11,7 @@
 __name__ = 'job_decreaser.py'
 __author__ = 'MetaCode, Inc.'
 __version__ = 'Revision 1.0'
-__date__ = '$Id:$'
+__date__ = '8/5/14 10:07 AM'
 __copyright__ = 'Copyright (c) 2014, MetaCode, Inc. All Rights Reserved.'
 __license__ = 'Python'
 __ide__ = 'PyCharm'
