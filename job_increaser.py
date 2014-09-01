@@ -8,7 +8,6 @@
 
 """
 
-__name__ = 'job_increaser.py'
 __author__ = 'MetaCode, Inc.'
 __version__ = 'Revision 1.0'
 __date__ = '8/5/14 10:22 AM'
@@ -33,5 +32,3 @@ xml_document = "<ConfigurationPropertyDocument xmlns=\"http://xml.vidispine.com/
 response = requests.put(url, data=xml_document, auth=(portal_user, portal_pass), headers=headers)
 
 print response.content
-
-exit()
